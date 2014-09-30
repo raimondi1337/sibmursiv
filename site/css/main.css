@@ -1,0 +1,61 @@
+#topnav{
+	text-align: center;
+}
+
+#header{
+	text-align: center;
+}
+
+#logo{
+	width: 200px;
+	height: 200px;
+	margin-top: 15px;
+	background-color: red;
+}
+
+.row{
+	width: 100%;
+}
+.col-md-1{
+	height: 40px;
+	margin:25px;
+	background-color: red;
+}
+
+.col-md-2{
+	margin: 5px;
+	background-color: red;
+}
+
+.col-md-4{
+	height: 300px;
+	margin: 5px;
+	background-color: red;
+}
+
+.col-md-8{
+	margin: 5px;
+	height: 300px;
+	background-color: red;
+}
+
+.workpic{
+	height: 280px;
+}
+
+.workdesc{
+	height: 50px;
+	cursor: pointer;
+}
+
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:center;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
