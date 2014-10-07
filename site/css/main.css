@@ -28,14 +28,12 @@
 }
 
 .col-md-4{
-	height: 300px;
 	margin: 5px;
 	background-color: red;
 }
 
 .col-md-8{
 	margin: 5px;
-	height: 300px;
 	background-color: red;
 }
 
