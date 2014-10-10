@@ -1,0 +1,130 @@
+#topnav{
+	text-align: center;
+}
+
+#header{
+	text-align: center;
+}
+
+#logo{
+	width: 200px;
+	height: 200px;
+	margin-top: 15px;
+	background-color: red;
+}
+
+.row{
+	width: 100%;
+}
+.col-md-1{
+	height: 40px;
+	margin:25px;
+	background-color: red;
+}
+
+.col-md-2{
+	margin: 5px;
+}
+
+.col-md-4{
+	height: 300px;
+	margin: 5px;
+}
+
+.col-md-8{
+	margin: 5px;
+	height: 300px;
+}
+
+.workpic1{
+	height: 280px;
+	background-color: red;
+}
+
+.workpic2{
+	height: 280px;
+	background-color: yellow;
+}
+
+.workpic3{
+	height: 280px;
+	background-color: green;
+}
+
+.workpic4{
+	height: 280px;
+	background-color: blue;
+}
+
+.workdesc1{
+	height: 50px;
+	cursor: pointer;
+	background-color: red;
+}
+
+.workdesc2{
+	height: 50px;
+	cursor: pointer;
+	background-color: yellow;
+}
+
+.workdesc3{
+	height: 50px;
+	cursor: pointer;
+	background-color: green;
+}
+
+.workdesc4{
+	height: 50px;
+	cursor: pointer;
+	background-color: blue;
+}
+
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:center;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+
+#bottom1 .col-md-2{
+	background-color:red;
+}
+#bottom1 .col-md-4{
+	background-color:red;
+}
+#bottom1 .col-md-8{
+	background-color:red;
+}
+#bottom2 .col-md-2{
+	background-color:yellow;
+}
+#bottom2 .col-md-4{
+	background-color:yellow;
+}
+#bottom2 .col-md-8{
+	background-color:yellow;
+}
+#bottom3 .col-md-2{
+	background-color:green;
+}
+#bottom3 .col-md-4{
+	background-color:green;
+}
+#bottom3 .col-md-8{
+	background-color:green;
+}
+#bottom4 .col-md-2{
+	background-color:blue;
+}
+#bottom4 .col-md-4{
+	background-color:blue;
+}
+#bottom4 .col-md-8{
+	background-color:blue;
+}
