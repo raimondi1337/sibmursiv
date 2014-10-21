@@ -43,7 +43,6 @@
 
 .workdesc{
 	height: 50px;
-	cursor: pointer;
 }
 
 .row-centered {
@@ -56,4 +55,8 @@
     text-align:center;
     /* inline-block space fix */
     margin-right:-4px;
+}
+
+.clickable{
+	cursor: pointer;
 }
